@@ -1,7 +1,7 @@
 ## This is how I ran the project
 
 The project was not running on Mac or Windows macnine due to pip version problem. That's why I used Docker on Windows machine. Here is the systems overview of the machine.
-![A beautiful sunset](./asset/system.png "Sunset over the ocean")
+![A beautiful sunset](/asset/system.png "Sunset over the ocean")
 
 Here is the docker file I prepared for the project:
 ``` Dockerfile
