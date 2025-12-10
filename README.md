@@ -67,7 +67,7 @@ Then exec into the docker container
     docker run -it --name persona_vectors /bin/bash
 ```
 You need to create API key for both OpenAI API Key (Need around $5 for this project)
-![A beautiful sunset](./asset/open_Ai.png "Sunset over the ocean")
+![A beautiful sunset](./asset/open_ai.png "Sunset over the ocean")
 and HuggingFace Token (Free)
 ![A beautiful sunset](./asset/hugging.png "Sunset over the ocean")
 
